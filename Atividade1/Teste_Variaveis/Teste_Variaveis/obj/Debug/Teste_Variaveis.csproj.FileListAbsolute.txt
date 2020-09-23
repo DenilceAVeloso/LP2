@@ -1,0 +1,9 @@
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\bin\Debug\Teste_Variaveis.exe.config
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\bin\Debug\Teste_Variaveis.exe
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\bin\Debug\Teste_Variaveis.pdb
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.csprojAssemblyReference.cache
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.Form1.resources
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.Properties.Resources.resources
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.exe
+C:\Users\Denilce\Desktop\Teste_Variaveis\Teste_Variaveis\obj\Debug\Teste_Variaveis.pdb
